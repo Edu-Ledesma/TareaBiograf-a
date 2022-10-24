@@ -1,0 +1,55 @@
+*{background-color:black;
+    color:cyan;
+    text-align: center;
+    font-family:"Catamaran";
+  }
+  #imgPerfil{
+      border-radius: 50%;
+      border: solid 10px;
+      border-color: aqua;
+  }
+  .titulos{
+      font-size: 200%;
+      font-style: italic;
+  }
+  
+  .titulos{
+      font-size: 200%;
+      font-style: italic;
+      
+  }
+  
+  
+  h2{
+      font-size: 300%;
+  }
+  
+  #biografia{
+      width: 70vw;
+      margin-left: 15%;
+  }
+
+  #familia{
+    display: inline-block;
+  }
+
+  #distinciones{
+    display: inline-block;
+  }
+  #biografia{
+    display: inline;
+  }
+  .flexElemento{
+    width: 400px;
+    height: 400px;
+    background-color:aqua;
+    margin: 15px;
+    color:black;
+    font-size: 500%;
+
+  }
+  .flexContenedor{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+  }
